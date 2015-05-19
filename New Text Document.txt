@@ -29,3 +29,7 @@ int main()
     cout<<endl;
  //---used switch function so thet the operater can be decided------------  
     switch (operation)
+
+
+    switch
+    

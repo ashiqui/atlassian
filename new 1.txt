@@ -1,13 +1,31 @@
+.merge_file_a04184
+
+ #include <stdio.h>
+
+main()
+{
+    printf("Hello World\n");
+    return 0;
+}
+.merge_file_a04376
 #include <stdio.h>
  
 main()
 {
+.merge_file_a04184
    int x = 1;
  
    if ( x == 1 )
       printf("x is equal to one.\n");
    else
       printf("For comparison use == as = is the assignment operator.\n");
+   int number;
+ 
+   printf("Enter an integer\n");
+   scanf("%d",&number);
+ 
+   printf("Integer entered by you is %d\n", number);
+.merge_file_a04376
  
    return 0;
 }
